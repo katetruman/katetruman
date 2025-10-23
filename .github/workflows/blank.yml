@@ -16,4 +16,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          config_timezone: Pacific/Auckland
           token: ${{ secrets.METRICS }}
+          base: header
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_stars: yes
+          config_order: base.header, isocalendar, languages, stars
+          config_output: svg
+        
