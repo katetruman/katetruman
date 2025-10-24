@@ -1,5 +1,8 @@
-## Hi there 👋
+## Kate
 
+- Pronouns: she / her
+- Doctoral candidate, University of Canterbury, New Zealand
+- Interested in models to infer diversification rates in macro-evolution 
 <!--
 **katetruman/katetruman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Pronouns: she / her
+
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
