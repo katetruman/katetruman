@@ -1066,6 +1066,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1162,7 +1167,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>evolbioinfo/phylodeep</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PhyloDeep is a python library for parameter estimation and model selection from phylogenetic trees, based on deep learning.</div>
@@ -1215,7 +1220,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JakubVoz/deeptimelearning</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code of the paper "Deep learning from phylogenies for diversification analysis".</div>
@@ -1268,7 +1273,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>manolofperez/phyloCNN</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
